@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Volume_Tabung</string>
+    <string name="volume_tabung">Volume Tabung</string>
+    <string name="phi">Phi</string>
+    <string name="masukkan_phi">Masukkan Phi</string>
+    <string name="jari_jari">Jari-Jari</string>
+    <string name="masukkan_jari_jari">Masukkan Jari Jari</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="masukkan_tinggi">Masukkan Tinggi</string>
+    <string name="hitung">Hitung</string>
+</resources>
